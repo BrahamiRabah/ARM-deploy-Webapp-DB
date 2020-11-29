@@ -6,7 +6,7 @@
       "value": "test-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "rabah"
     },
     "databaseName": {
       "value": "products"
@@ -14,5 +14,5 @@
     "skuName": {
       "value": "D1"
     }
-  }
+  }a
 }
